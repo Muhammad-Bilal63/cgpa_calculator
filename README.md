@@ -36,5 +36,4 @@ The calculator takes the **course grade** and **credit hours** into account and 
 If the source code is included in the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+(https://github.com/Muhammad-Bilal63/cgpa_calculator)
